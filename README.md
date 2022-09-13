@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Julio Cesar
 
 Full Stack developer based in Chile 💻 
-### I consider myself a person passionate about technology, I love to share knowledge with other people and also learn from them, I am always in constant learning.
+### I consider myself a person passionate about technology, I love sharing knowledge with other people and also learning from them, I am always constantly learning and in this way being able to improve every day.
 
 Tech Stack:
 - Programming Language: JavaScript.
