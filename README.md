@@ -3,8 +3,6 @@
 Full Stack developer based in Chile 💻 
 ### I consider myself a person passionate about technology, I love sharing knowledge with other people and also learning from them, I am always constantly learning and in this way being able to improve every day.
 
-🎵 I also really enjoy music and one of my favorite bands is Of Monsters and Men.
-
 Tech Stack:
 - Programming Language: JavaScript.
 - Backend: NodeJS, ExpressJS.
@@ -40,3 +38,5 @@ Soft Skills:
 </p>
 
 <a href="https://portfolio-julio-cesar.vercel.app/" target="__blank"><img align="center" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-gradient-kiranshastry.png" alt="Julio Cesar" height="25" width="25" />Porfolio</a>
+
+🎵 I also really enjoy music and one of my favorite bands is Of Monsters and Men.
