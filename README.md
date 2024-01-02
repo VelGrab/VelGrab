@@ -38,5 +38,3 @@ Soft Skills:
 </p>
 
 <a href="https://portfolio-julio-cesar.vercel.app/" target="__blank"><img align="center" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-gradient-kiranshastry.png" alt="Julio Cesar" height="25" width="25" />Porfolio</a>
-
-🎵 I also really enjoy music and one of my favorite bands is Of Monsters and Men.
