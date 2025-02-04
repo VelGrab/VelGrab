@@ -4,13 +4,12 @@ Full Stack developer based in Chile 💻
 ### I consider myself a person passionate about technology, I love sharing knowledge with other people and also learning from them, I am always constantly learning and in this way being able to improve every day.
 
 Tech Stack:
-- Programming Language: JavaScript.
-- Backend: NodeJS, ExpressJS.
-- Frontend: HTML5, CSS3, React, Redux.
-- Database: Sql, Postgresql, MongoDB.
+- Programming Language: JavaScript, Ruby and Go.
+- Backend: NodeJS, ExpressJS, Graphql Sinatra.
+- Frontend: HTML5, CSS, SvelteKit.
+- Database: MariaDB, Postgresql, MongoDB.
 - Version Control: Git.
-- IDE: VS Code.
-- Operating System: Windows.
+- Operating System: Linux.
 - Project Management: Scrum. 
 
 Soft Skills:
