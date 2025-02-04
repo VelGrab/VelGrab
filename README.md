@@ -1,27 +1,29 @@
-### Hi there 👋, my name is Julio Cesar
+# Hi there 👋, I'm Julio Cesar  
 
-Full Stack developer based in Chile 💻 
-### I consider myself a person passionate about technology, I love sharing knowledge with other people and also learning from them, I am always constantly learning and in this way being able to improve every day.
+**Full Stack Developer based in Chile** 🌍  
 
-Tech Stack:
-- Programming Language: JavaScript, Ruby and Go.
-- Backend: NodeJS, ExpressJS, Graphql Sinatra.
-- Frontend: HTML5, CSS, SvelteKit.
-- Database: MariaDB, Postgresql, MongoDB.
-- Version Control: Git.
-- Operating System: Linux.
-- Project Management: Scrum. 
+I'm passionate about technology and enjoy sharing knowledge as much as I love learning from others. I'm committed to continuous learning and self-improvement, always striving to become a better developer every day.  
 
-Soft Skills:
+## 🔧 Tech Stack  
 
-- Proactive
-- Empathy
-- Collaborative
-- Agile Learning
-- Perseverance
-- TeamWork
-- Communication
-- Positive Attitude
+- **Programming Languages:** JavaScript, Ruby, Go  
+- **Backend:** Node.js, Express.js, GraphQL, Sinatra  
+- **Frontend:** HTML5, CSS3, SvelteKit  
+- **Databases:** MariaDB, PostgreSQL, MongoDB  
+- **Version Control:** Git  
+- **Operating Systems:** Linux  
+- **Project Management:** Scrum  
+
+## 🌟 Soft Skills  
+
+- Proactive  
+- Empathetic  
+- Collaborative  
+- Fast Learner  
+- Perseverant  
+- Team Player  
+- Strong Communication  
+- Positive Attitude 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelGrab)](https://github.com/anuraghazra/github-readme-stats)
 
